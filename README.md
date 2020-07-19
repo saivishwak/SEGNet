@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/license/saivishwak/SEGNet)
 ![](https://img.shields.io/github/last-commit/saivishwak/SEGNet)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
+![](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue)
 
 
 ## [MIT License](https://raw.githubusercontent.com/saivishwak/SEGNet/master/LICENSE)
