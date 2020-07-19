@@ -46,7 +46,9 @@ Tested on Windows and Linux
 
 ## User Interface
 
-    mouse_scroll on dicom widget - Change slice
+    Dicom Widget:
+    
+    mouse_scroll - Change slice
     
     clrt + left_mouse_button - Pan
 
@@ -55,6 +57,10 @@ Tested on Windows and Linux
     mouse_right_button + drag - Contrast/Brightness
 
     r - Reset view
+
+    3D Renderer:
+
+    All basic mouse movements!
 
 ## [MIT License](https://raw.githubusercontent.com/saivishwak/SEGNet/master/LICENSE)
 <img src ="https://img.shields.io/badge/Important-notice-red" />
