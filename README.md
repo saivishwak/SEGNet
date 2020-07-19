@@ -1,5 +1,5 @@
 # SEGNet
-### All in One Hacking tool For Hackers
+### Automated Bone Segmenting and Rendering Application
 ![](https://img.shields.io/github/issues/saivishwak/SEGNet)
 ![](https://img.shields.io/github/forks/saivishwak/SEGNet)
 ![](https://img.shields.io/github/stars/saivishwak/SEGNet)
