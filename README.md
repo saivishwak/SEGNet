@@ -2,7 +2,6 @@
 ### All in One Hacking tool For Hackers
 ![](https://img.shields.io/github/issues/saivishwak/SEGNet)
 ![](https://img.shields.io/github/forks/saivishwak/SEGNet)
-![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/stars/saivishwak/SEGNet)
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/license/saivishwak/SEGNet)
