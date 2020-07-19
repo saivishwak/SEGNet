@@ -48,4 +48,6 @@ Tested on Windows and Linux
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>You can use it absolutely anywhere!</h4>
 
+More information regarding AI model will be updated soon!
+
 Feel free to make a pull request if you feel that you have improve this tool
