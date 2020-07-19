@@ -1,0 +1,4 @@
+numpy
+vtk
+PyQt5
+opencv-python
