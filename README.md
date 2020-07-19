@@ -44,6 +44,18 @@ Requirements can be dwonloaded as shown below:
 
 Tested on Windows and Linux
 
+## User Interface
+
+    mouse_scroll on dicom widget - Change slice
+    
+    clrt + left_mouse_button - Pan
+
+    clrt + mouse_scroll - Zoom
+
+    mouse_right_button + drag - Contrast/Brightness
+
+    r - Reset view
+
 ## [MIT License](https://raw.githubusercontent.com/saivishwak/SEGNet/master/LICENSE)
 <img src ="https://img.shields.io/badge/Important-notice-red" />
 <h4>You can use it absolutely anywhere!</h4>
