@@ -14,7 +14,18 @@ SEGNet is an open-source, multi-platform bone segmentation and dicom view viewer
 
 ![Splash](./Images/splash.png)
 
+# Requirements
+- Pyqt5
+- Opencv
+- Numpy
+- VTK
 
+Requirements can be dwonloaded as shown below:
+    git clone https://github.com/saivishwak/SEGNet.git 
+    
+    cd SEGNet
+    
+    sudo pip3 install -r requirement.txt
 
 ## [MIT License](https://raw.githubusercontent.com/saivishwak/SEGNet/master/LICENSE)
 <img src ="https://img.shields.io/badge/Important-notice-red" />
