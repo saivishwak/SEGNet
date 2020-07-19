@@ -14,6 +14,12 @@ SEGNet is an open-source, multi-platform bone segmentation and dicom view viewer
 
 ![Splash](./Images/splash.png)
 
+# Developments
+
+- AI model needs to be implemented
+- Fullscreen mode for widgets
+- Advanced surface properties
+
 # Requirements
 - Pyqt5
 - Opencv
