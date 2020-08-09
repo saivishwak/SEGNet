@@ -10,7 +10,7 @@
 
 
 # Introduction
-SEGNet is an open-source, multi-platform bone segmentation and dicom viewer with user friendly user interface. SEGNet provides ease in viewing Dicom data; Mouse integrations will help you to visualize dicom in a detailed way. SEGNet utilizes combined power of image processing and neural nets for fast segentation of bone from a CT Dicom data.
+SEGNet is an open-source, multi-platform bone segmentation and Dicom viewer with user-friendly interface. SEGNet provides ease in viewing Dicom data; Mouse integrations will help you to visualize Dicom in a detailed way. SEGNet utilizes combined power of image processing and neural nets for fast segmentation of bone from a CT Dicom data.
 
 ![Splash](./Images/splash.png)
 
